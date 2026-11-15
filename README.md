@@ -23,4 +23,4 @@ Early-stage project. Interfaces, formats, and implementation details are subject
 
 This project is dual-licensed: MIT OR Apache-2.0, choose either. See LICENSE-MIT and LICENSE-APACHE-2.0 in the repository root.
 
-![moq-ml-logo](https://github.com/cathode-ray-tube/moq-ml/blob/main/assets/moq-ml-logo.jpeg))
+![moq-ml-logo](https://github.com/cathode-ray-tube/moq-ml/blob/main/assets/moq-ml-logo.jpeg)
