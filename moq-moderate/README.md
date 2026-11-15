@@ -1,6 +1,6 @@
 # moq-moderate
 
-A machine-learning content moderation pipeline for Media-over-QUIC (MoQ) streams.
+A machine-learning content moderation pipeline for Media over QUIC (MoQ) streams.
 
 `moq-moderate` analyzes live media for potentially unsuitable content, based on the models and moderation criteria configured by an application. It publishes timestamped moderation signals on a MoQ track to support downstream review or policy enforcement.
 
